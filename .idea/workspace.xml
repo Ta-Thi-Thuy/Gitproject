@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="777c7542-ab44-46a3-96bb-358345252454" name="Default Changelist" comment="" />
+    <list default="true" id="777c7542-ab44-46a3-96bb-358345252454" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simpleform.html" beforeDir="false" afterPath="$PROJECT_DIR$/simpleform.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599468198411</updated>
       <workItem from="1599468199505" duration="4887000" />
-      <workItem from="1599527535521" duration="5048000" />
+      <workItem from="1599527535521" duration="5468000" />
     </task>
     <servers />
   </component>
